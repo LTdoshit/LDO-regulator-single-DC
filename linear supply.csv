@@ -1,0 +1,6 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"C1,C3,C6","2200uF","~","Capacitor_THT:CP_Radial_D18.0mm_P7.50mm","3",""
+"C2,C4","0.1uF","~","Capacitor_THT:C_Rect_L7.2mm_W4.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2","2",""
+"C5","470uF","~","Capacitor_THT:CP_Radial_D12.5mm_P5.00mm","1",""
+"R1","r=""""","~","Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal","1",""
+"U1","LM317_TO-220","http://www.ti.com/lit/ds/symlink/lm317.pdf","Package_TO_SOT_THT:TO-220-3_Vertical","1",""
